@@ -1,0 +1,29 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Kerala Lalithakala Akademi Art Gallery, Kottayam
+
+## Skin
+
+### Multiline Text
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_51B19FC2_580A_D1AC_41CA_25EB02536385.label = Art Gallery, Kottayam
+panorama_51B37BCB_580A_31BC_41D1_F24CEAEEE944.label = Art Gallery, Kottayam
+panorama_51BF1031_580A_6EEC_41D5_D02E35F272DA.label = Art Gallery, Kottayam
+panorama_51BF4CB1_580A_57EC_41CF_96C102123758.label = Art Gallery, Kottayam
+panorama_51BF73C0_580A_71AC_41D0_FEDEC1CEABA7.label = Art Gallery, Kottayam
+panorama_51D867A6_580A_51F4_41C1_0B65014402DE.label = Art Gallery, Kottayam
+panorama_52AA83B1_580A_D1EC_41B4_DCB06BE7F1BF.label = Art Gallery, Kottayam
